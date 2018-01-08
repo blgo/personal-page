@@ -10,9 +10,9 @@ enforce_ssl         = false
 
 [params]
     bloghead        = "Blog"                        # Full name shows on blog post pages
-    firstname       = "Introduction"                # First name shows in introduction on main page
-    tagline         = "I'm a theme for Hugo."       # Appears after the introduction
-    introheight     = "large"                       # Input either 'medium' or 'large' or 'fullheight'
+    firstname       = "Blas Gomez"                # First name shows in introduction on main page
+    tagline         = "Software engineer by profession and passion"       # Appears after the introduction
+    introheight     = "medium"                       # Input either 'medium' or 'large' or 'fullheight'
     theme           = "dark"                        # Choose 'light' or 'dark'
     avatar          = "img/profile.jpg"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
     email           = "jblas1989@gmail.com"         # Shows in contact section, or leave blank to omit
