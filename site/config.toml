@@ -53,5 +53,5 @@ enforce_ssl         = false
     icon = "facebook"
 
 [[params.social]]
-    url = "https://linkedin.com/blas-gomez-49080155"
+    url = "https://linkedin.com/in/blas-gomez"
     icon = "linkedin"
