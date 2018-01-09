@@ -13,10 +13,12 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Weight", name: "Weight", widget: "string"}
+      - {label: "Image", name: "image", widget: "image", required: "false"}
+      - {label: "Position (number)", name: "weight", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-  - label: "About Pages"
+      - {label: "External link", name: "external_link", widget: "string", required: false}
+  - label: "About Page"
     name: "pages"
     files:
     - name: "About" 
