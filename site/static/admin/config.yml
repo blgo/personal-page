@@ -1,9 +1,6 @@
 backend:
-  name: github
-  repo: blgo/personal-page
+  name: git-gateway
   branch: master
-        # name: git-gateway
-        #branch: master
 
 publish_mode: editorial_workflow
 media_folder: "site/static/img/"
