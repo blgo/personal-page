@@ -1,16 +1,14 @@
 ---
-title: "Flask Twitterapi"
-date: 2018-01-09T15:30:27Z
-image: ""
-external_link: ""
+title: Flask Twitterapi
+image: /site/static/img/twittergooglemaps.jpg
 weight: 3
-draft: false 
+date: 2018-01-09T15:30:27.000Z
+external_link: ''
 ---
-Try the <a href="https://hub.docker.com/r/blgo/flask-realtime-restapi/">Docker image</a>. Follow these easy steps to  <a href="https://github.com/blgo/flask-twitterapi/blob/master/README.md#setup">Setup and create the .env file</a>.
+Try the [Docker image](https://hub.docker.com/r/blgo/flask-realtime-restapi). Follow these easy steps to  [Setup and create the .env file](https://github.com/blgo/flask-twitterapi/blob/master/README.md).
 
-Simple Flask web app, which integrates search hashtags for geolocalization and display the twitt on its country on GoogleMaps.
+A simple Flask web app, which integrates search hashtags for geolocalization and displays the twitt on its country on GoogleMaps.
 
 Supports displaying multiple twitts with images for a specific user.
 
 Responsive UI using Twitter Bootstrap.
-
