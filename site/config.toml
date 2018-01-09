@@ -56,3 +56,9 @@ googleAnalytics   = "UA-110859141-2"
 [[params.social]]
     url = "https://facebook.com/blasgf"
     icon = "facebook"
+
+[[params.social]]
+    url = "https://github.com/blgo/personal-page"
+    icon = "github"
+
+
