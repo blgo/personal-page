@@ -44,6 +44,11 @@ googleAnalytics   = "UA-110859141-2"
 # Social icons appear in introduction and contact section. Add as many more as you like.
 # Find icon names here: http://fontawesome.io/cheatsheet/
 
+
+[[params.social]]
+    url = "https://linkedin.com/in/blas-gomez"
+    icon = "linkedin"
+
 [[params.social]]
     url = "https://twitter.com/JBlasGomez"
     icon = "twitter"
@@ -51,7 +56,3 @@ googleAnalytics   = "UA-110859141-2"
 [[params.social]]
     url = "https://facebook.com/blasgf"
     icon = "facebook"
-
-[[params.social]]
-    url = "https://linkedin.com/in/blas-gomez"
-    icon = "linkedin"

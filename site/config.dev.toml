@@ -6,7 +6,7 @@ builddrafts         = false                         # Include pages with draft s
 canonifyurls        = true                          # Turns relative urls into absolute urls
 enforce_ssl         = false
 # disqusshortname   = "xxx"                         # Enable Disqus for comments
-# googleAnalytics   = "xxx"
+# googleAnalytics   = "UA-110859141-2"
 
 [params]
     bloghead        = "Blog"                        # Full name shows on blog post pages
@@ -45,7 +45,7 @@ enforce_ssl         = false
 # Find icon names here: http://fontawesome.io/cheatsheet/
 
 [[params.social]]
-    url = "https://linkedin.com/blas-gomez-49080155"
+    url = "https://linkedin.com/in/blas-gomez"
     icon = "linkedin"
 
 [[params.social]]

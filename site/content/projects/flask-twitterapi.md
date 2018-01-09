@@ -6,7 +6,7 @@ external_link: ""
 weight: 3
 draft: false 
 ---
-Try the <a href="https://hub.docker.com/r/blgo/flask-realtime-restapi/">Docker image</a>. It requires creating a .env file for the API keys.
+Try the <a href="https://hub.docker.com/r/blgo/flask-realtime-restapi/">Docker image</a>. Follow these easy steps to  <a href="https://github.com/blgo/flask-twitterapi/blob/master/README.md#setup">Setup and create the .env file</a>.
 
 Simple Flask web app, which integrates search hashtags for geolocalization and display the twitt on its country on GoogleMaps.
 
