@@ -1,6 +1,6 @@
 ---
 title: Flask Twitterapi
-image: /site/static/img/twittergooglemaps.jpg
+image: img/twittergooglemaps.jpg
 weight: 3
 date: 2018-01-09T15:30:27.000Z
 external_link: ''
