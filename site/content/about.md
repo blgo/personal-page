@@ -23,4 +23,4 @@ Only 2 weeks after I arrived in Bristol, I was hired by Bluewire Technologies, w
 
 **In June 2017**, I quit my job in Bluewire and started working on my [personal projects](https://blgo.netlify.com/#projects). However, I knew that I would need to improve my skills in a large number of technologies: Python, HTML, CSS, Javascript... and all the libraries, modules, tools, APIs, web services that I would need to use.
 
-Now, I am keen to find my place in the **Software Engineering **market and I am **very enthusiastic** about learning anything required to **succeed in this quest**.
+Now, I am keen to find my place in the **Software Engineering** market and I am **very enthusiastic** about learning anything required to **succeed in this quest**.
