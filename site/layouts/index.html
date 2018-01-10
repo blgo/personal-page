@@ -124,7 +124,7 @@
         {{ end }}
 
         {{ if .Site.Params.email }}
-        <div><h3 class="subtitle is-3 has-text-centered top-pad"><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></h3></div>
+        <div><h3 class="subtitle has-text-centered top-pad"><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></h3></div>
         {{ end }}
 
         {{ partial "social.html" . }}
