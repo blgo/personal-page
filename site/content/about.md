@@ -6,7 +6,6 @@ date: 2018-01-09T16:41:12.000Z
 This is something that I knew since I was around 7 years old:
 I was fascinated by rechargeable batteries when my father found some D size lead batteries and built a charger for me. I could run my electric train without the need to ask my parents for more batteries. 
 
-
 I have always been very enthusiastic about computers and anything programmable. I still remember when we got from a relative, a computer with a green display which used very slim floppy disks.
 
 When we had our first PC Pentium III, I could watch my brother for hours trying to fix something in Windows and then I would ask and try to understand what was happening and why.
@@ -23,7 +22,7 @@ Here, I met some software engineers who motivated me to learn more about compute
 
 When I finished my bachelors degree in Malaga University, **in 2014**, I moved to Bristol (UK), where I currently reside.
 
-Two  weeks after I arrived in Bristol, I was hired by Bluewire Technologies, where I helped improving and supporting our Eletronic Patient Record system - [Epro](https://www.epro.com) - for the NHS, in the role of DevOps. My tasks involved troubleshooting server and application issues for several NHS hospitals, maintaining infrastructure, databases administration, automating test enviroments; planning technical details, testing and troubleshooting database migrations and  deployments of production applications. 
+Two  weeks after I arrived in Bristol, I was hired by Bluewire Technologies, where I helped improving and supporting our Eletronic Patient Record system - [Epro](https://www.epro.com) - for the NHS, in the role of DevOps. My tasks involved troubleshooting server and application issues for several NHS hospitals, maintaining infrastructure, databases administration, automating test enviroments; planning, testing and troubleshooting database migrations and deployments to production servers. 
 
 **In June 2017**, I quit at Bluewire and started working on my [personal projects](https://blgo.netlify.com/#projects). 
 
