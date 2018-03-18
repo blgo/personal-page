@@ -20,6 +20,7 @@ This application displays temperature and humidity readings in a timeline, recei
 1. <b>Realtime updates:</b> Uses Flask-SocketIO and Eventlet.</br>
 2. <b>RESTful:</b> Flask-RESTful api provides function wrappers and predefined methods (GET, POST, PUT, DELETE).</br>
 3. <b>Charts:</b> Charts.js: Fast and lightweight.</br>
+4. <b>Database: Mongoengine is a simple declarative API, similar to the Django ORM. MongoDB offers flexibility and low maintenance  permanent storage.</br>
    </br>
 
 PD: Yes, it is a very naive implementation and easy to break, please don't :D . I hope I had all the time in world to make it bit more resiliant.
