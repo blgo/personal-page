@@ -7,27 +7,11 @@ external_link: ''
 ---
 Try the <a href="http://82.38.27.16:5000">Live Demo</a>, _which in fact is my experimental hydroponic greenhouse_, or run it yourself from the <a href="https://hub.docker.com/r/blgo/flask-realtime-restapi/">Docker image</a>
 
-> The hydroponic automation mentioned above consists of a Raspberry Pi and a humidity/temperature sensor connected. A Python script and Adafruit libraries, take care of controlling the sensor and sending the reading to the REST API.
+> The experimental hydroponic greenhouse mentioned above consists of a [DWC](https://en.wikipedia.org/wiki/Deep_water_culture) system and a Raspberry Pi with a humidity/temperature sensor connected. A Python script and Adafruit libraries take care of controlling the sensor and sending the reading to the REST API.
 >
-> \
+> The REST API, the MongoDB instance and the web user interface, are running in the same Raspberry Pi. 
 >
->
->
->
-> \
->
->
-> The REST API, the MongoDB instance and the web application and the Websockets server, are running in the same Raspberry Pi. 
->
-> \
->
->
->
->
-> \
->
->
-> I am still implementing and researching which PH and EC sensors are best for continous reading.
+> I am still implementing and researching about PH and EC sensors are best for continous reading.
 
 Github <a href="https://github.com/blgo/flask-realtime-restapi">repository and documentation</a>.
 
