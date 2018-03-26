@@ -5,7 +5,7 @@ weight: 1
 date: 2018-01-09T00:07:14.000Z
 external_link: ''
 ---
-Try the <a href="http://82.37.69.54:5000">Live Demo</a> or run the <a href="https://hub.docker.com/r/blgo/flask-realtime-restapi/">Docker image</a>
+Try the <a href="http://82.38.27.16:5000">Live Demo</a> or run the <a href="https://hub.docker.com/r/blgo/flask-realtime-restapi/">Docker image</a>
 
 I have a Raspberry Pi sending data to the REST endpoint every minute.
 
