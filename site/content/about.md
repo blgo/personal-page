@@ -8,9 +8,7 @@ I knew this would be a big challenge and that I would need to improve my skills 
 
 Now, I am keen to find my place in the **Software Engineering** market and I am **very enthusiastic** about learning anything required to **succeed in this quest**.
 
-If you would like to know me a bit better, please continue reading or go to the [projects](https://blgo.netlify.com/#projects) section.
-
-
+## _**If you would like to know me a bit better, please continue reading or go to the **_[_**projects**_](https://blgo.netlify.com/#projects)_** section.**_
 
 **I was born to be an Engineer.**
 This is something that I knew since I was around 7 years old:
