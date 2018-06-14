@@ -2,13 +2,17 @@
 title: About
 date: 2018-01-09T16:41:12.000Z
 ---
-**In June 2017**, I quit at Bluewire and started working on my [personal projects](https://blgo.netlify.com/#projects). 
+**In June 2017**, I quit at Bluewire Technologies / Epro, and started working on my [personal projects](https://blgo.netlify.com/#projects). 
 
 I knew this would be a big challenge and that I would need to improve my skills in a large number of technologies: Python, HTML, CSS, Javascript... and any  frameworks, libraries, modules, tools, APIs and architectures that I would need to use.
 
 Now, I am keen to find my place in the **Software Engineering** market and I am **very enthusiastic** about learning anything required to **succeed in this quest**.
 
-## _**If you would like to know me a bit better, please continue reading or go to the **_[_**projects**_](https://blgo.netlify.com/#projects)_** section.**_
+
+
+## **If you would like to know me a bit better, please continue reading or go to the [projects](https://blgo.netlify.com/#projects) section.**
+
+
 
 **I was born to be an Engineer.**
 This is something that I knew since I was around 7 years old:
