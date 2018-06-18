@@ -8,11 +8,9 @@ I knew this would be a big challenge and that I would need to improve my skills 
 
 Now, I am keen to find my place in the **Software Engineering** market and I am **very enthusiastic** about learning anything required to **succeed in this quest**.
 
+If you would like to know me a bit better, please continue reading or go to the projects section below.
 
-
-## **If you would like to know me a bit better, please continue reading or go to the [projects](https://blgo.netlify.com/#projects) section.**
-
-
+{{%expand "Continue reading..."%}}
 
 **I was born to be an Engineer.**
 This is something that I knew since I was around 7 years old:
@@ -41,3 +39,4 @@ Two  weeks after I arrived in Bristol, I was hired by Bluewire Technologies, whe
 I knew this would be a big challenge and that I would need to improve my skills in a large number of technologies: Python, HTML, CSS, Javascript... and any  frameworks, libraries, modules, tools, APIs and architectures that I would need to use.
 
 Now, I am keen to find my place in the **Software Engineering** market and I am **very enthusiastic** about learning anything required to **succeed in this quest**.
+{{%/expand%}}
