@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --config site/config.toml"
+  command = "hugo -s site --config site/config.toml"
   publish = "public"
 
 [context.deploy-preview]
