@@ -5,13 +5,13 @@ weight: 1
 date: 2018-01-09T00:07:14.000Z
 external_link: ''
 ---
-Try the <a href="http://82.38.27.16:5000">Live Demo</a>, _which in fact is my experimental hydroponic greenhouse_, or run it yourself from the <a href="https://hub.docker.com/r/blgo/flask-realtime-restapi/">Docker image</a>
+Demo <a href="https://hub.docker.com/r/blgo/flask-realtime-restapi/">Docker image</a>
 
-> The experimental hydroponic greenhouse mentioned above consists of a [DWC](https://en.wikipedia.org/wiki/Deep_water_culture) system and a Raspberry Pi with a humidity/temperature sensor connected. A Python script and Adafruit libraries take care of controlling the sensor and sending the reading to the REST API.
+> I built an experimental hydroponic greenhouse which consists of a [DWC](https://en.wikipedia.org/wiki/Deep_water_culture) system and a Raspberry Pi with a humidity/temperature sensor connected. A Python script and Adafruit libraries take care of controlling the sensor and sending the reading to the REST API.
 >
-> The REST API, the MongoDB instance and the web user interface, are running in the same Raspberry Pi. 
+> The REST API, the MongoDB instance and the web user interface, run in the same Raspberry Pi. 
 >
-> I am still implementing and researching about PH and EC sensors are best for continous reading.
+> I tryied implementing continuous monitoring of PH (water acidity levels) and EC (electric conductivity to measure the concentration of minerals disolved in the water) sensors for continuous mornitoring, however, these sensors were too expensive for a hobby project. Cheaper sensors only support one-off readings and require more maintenance and re-calibration. For these reasons I dropped the idea of monitoring PH and EC.
 
 Github <a href="https://github.com/blgo/flask-realtime-restapi">repository and documentation</a>.
 
