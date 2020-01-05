@@ -1,6 +1,6 @@
 [build]
-  command = "hugo -s site --config site/config.toml"
-  publish = "public"
+  command = "hugo -s site"
+  publish = "site/public"
 
 [context.deploy-preview]
   command = "hugo --config site/config.dev.toml"
