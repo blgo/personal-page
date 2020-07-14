@@ -37,9 +37,9 @@ googleAnalytics   = "UA-110859141-2"
 
     # Share buttons
     sharetwitter        = true
-    sharefacebook       = true
+    sharefacebook       = false
     sharepinterest      = false
-    sharegoogleplus     = true
+    sharegoogleplus     = false
 
 # Social icons appear in introduction and contact section. Add as many more as you like.
 # Find icon names here: http://fontawesome.io/cheatsheet/
@@ -52,10 +52,6 @@ googleAnalytics   = "UA-110859141-2"
 [[params.social]]
     url = "https://twitter.com/JBlasGomez"
     icon = "twitter"
-
-[[params.social]]
-    url = "https://facebook.com/blasgf"
-    icon = "facebook"
 
 [[params.social]]
     url = "https://github.com/blgo/personal-page"
