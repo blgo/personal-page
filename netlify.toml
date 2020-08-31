@@ -1,6 +1,6 @@
 [build]
-  command = "hugo -s site"
-  publish = "site/public"
+  command = "npm run build"
+  publish = "dist"
 
 [context.deploy-preview]
-  command = "hugo --config site/config.dev.toml"
+  command = "npm run build-preview"
