@@ -11,7 +11,7 @@ enforce_ssl         = false
 [params]
     bloghead        = "Blog"                        # Full name shows on blog post pages
     firstname       = "Blas Gomez"                # First name shows in introduction on main page
-    tagline         = "Software engineer by profession and passion"       # Appears after the introduction
+    tagline         = "Software Engineer by profession and passion"       # Appears after the introduction
     introheight     = "medium"                       # Input either 'medium' or 'large' or 'fullheight'
     theme           = "dark"                        # Choose 'light' or 'dark'
     avatar          = "img/profile.jpg"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
@@ -21,7 +21,7 @@ enforce_ssl         = false
     dateform        = "Jan 2, 2006"
     dateformfull    = "Mon Jan 2 2006 15:04:05 EST"
     cachebuster     = false                         # Add the current unix timestamp in query string for cache busting css assets (relevant in development mode)
-    description     = "Software engineer by profession and passion."         # Max 160 characters show in search results
+    description     = "Software Engineer by profession and passion."         # Max 160 characters show in search results
     faviconfile     = "img/fav.ico"
     highlightjs     = true                          # Syntax highlighting
     footertext      = ""                            # Text to show in footer (overrides default text)
